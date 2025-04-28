@@ -9,7 +9,7 @@ The main objective of this project is to:
 - Identify potential trends or anomalies that could be useful for predictive modeling.
 
 ## Dataset Used
-- <a href="">Dataset</a>
+- <a href="https://github.com/VidyavaVidyavati/-Exploratory-Data-Analysis-EDA-/blob/main/Titanic%20Dataset.csv">Dataset</a>
 
 ## Key Insights from EDA
 - **Survival Rates**: First-class passengers, especially women and children, had higher survival rates.

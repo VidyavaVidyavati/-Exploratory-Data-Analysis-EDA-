@@ -18,7 +18,7 @@ The main objective of this project is to:
 - **Family Size**: Passengers traveling with more family members (SibSp, Parch) had a better chance of survival.
 
 ## Final Jupyter Notebook
-- <a href="">Notebook</a>
+- <a href="https://github.com/VidyavaVidyavati/-Exploratory-Data-Analysis-EDA-/blob/main/EDA.ipynb">Notebook</a>
 
 ## Tools and Libraries
 This analysis uses the following Python libraries:
